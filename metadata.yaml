@@ -1,0 +1,43 @@
+_repo: The-Sand-Hills-of-Jutland_26491
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bushby, Mrs. (Anna S.)
+    aliases:
+    - Bushby, Anne S.
+    - Bushby, Anna S.
+    gutenberg_agent_id: '32044'
+    url: http://www.gutenberg.org/2009/agents/32044
+covers:
+- cover_type: archival
+  image_path: 26491-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: Translation of En historie fra klitterne.
+gutenberg_issued: '2008-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Denmark -- Social life and customs -- Fiction'
+- !lcc 'PT'
+tableOfContents: The sand-hills of Jutland -- The mud-king's daughter -- The quickest
+  runners -- The bell's hollow -- Soup made of a sausage stick -- The neck of a bottle
+  -- The old bachelor's nightcap -- Something -- The old oak tree's last dream --
+  The wind relates the story of Waldemar Daae and his daughters -- The girl who trod
+  upon bread -- Olé, the watchman of the tower -- Anne Lisbeth; or The apparition
+  of the beach -- Children's prattle -- A row of pearls -- The pen and the inkstand
+  -- The child in the grave -- Charming.
+title: The Sand-Hills of Jutland
+url: http://www.gutenberg.org/ebooks/26491
